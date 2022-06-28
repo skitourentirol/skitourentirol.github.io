@@ -9,5 +9,3 @@ if ((today.getMonth() > winterEnd.getMonth()) && (today.getMonth() < winterStart
 } else {
   link = "https://skitourentirol.github.io/skitouren.github.io/"
 }
-
-
