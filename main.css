@@ -3,7 +3,8 @@
 
 /* Hintergrundbild Einfügen und Schriftart implementieren */
 body {
-  background: url("images/tirol.jpg");
+  background: url("images/tirol.jpg") no-repeat center fixed;
+  background-size: cover;
   font-family: 'Open Sans Condensed', sans-serif;
 }
 
